@@ -1,0 +1,1 @@
+export { addWord, deleteWord } from "./words";
