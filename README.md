@@ -1,1 +1,1 @@
-# Chat_App
+# My_Dictionary_App
